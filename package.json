@@ -1,0 +1,21 @@
+{
+  "name": "crowdsale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0",
+    "truffle-plugin-verify": "^0.5.21"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
